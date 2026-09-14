@@ -80,6 +80,11 @@ h1{
         object-fit: cover;
     }
 }
+.project-container{
+    display: flex;
+    justify-content: space-between;\
+    
+}
 
 
 .custom-btn {

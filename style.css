@@ -82,7 +82,8 @@ h1{
 }
 .project-container{
     display: flex;
-    justify-content: space-between;\
+    justify-content: space-between;
+    gap: 24px;
     
 }
 
@@ -150,4 +151,22 @@ h1{
 
 .img-3:hover{
     transform: scaleY(100);
+}
+
+.contact-container{
+    display:flex;
+    justify-content: space-between;
+    color:#03045E
+}
+
+#contact{
+    color:#FF383C;
+}
+
+#work{
+    color: #03045E;
+}
+
+#about{
+    color:#03045E;
 }
